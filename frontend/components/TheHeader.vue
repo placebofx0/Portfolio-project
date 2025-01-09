@@ -4,7 +4,7 @@
             class="w-full px-3 py-9 bg-quaternary flex space-x-3.5 md:justify-center md:flex-col md:items-center md:space-x-0">
             <div class="flex-none">
                 <img
-                    src="@/assets/images/avatar.jpg"
+                    src="@/assets/images/avatar01.jpg"
                     alt="Avatar"
                     class="rounded-full w-20 h-20 border-2 border-primary md:w-52 md:h-52 md:mb-4"
                 />
