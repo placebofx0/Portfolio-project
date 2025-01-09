@@ -16,7 +16,7 @@ const experiences = [{
             "skills": [ 
                 "Word",
                 "Excel" ],
-            "detail": "- Support researcher"
+            "detail": "- Provide support to researchers in conducting product research based on customer requirements."
 },/*{
             "logo": "https://www.dermscanasia.com/wp-content/uploads/2019/07/dermscan-01-s.png",
             "title": "Operation technician",
