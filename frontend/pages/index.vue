@@ -8,7 +8,7 @@ useHead({
 
 const experiences = [{
             "logo": "https://www.dermscanasia.com/wp-content/uploads/2019/07/dermscan-01-s.png",
-            "title": "Operation technician",
+            "title": "Research technician",
             "company" : "Dermscan Asia",
             "type": "fulltime",
             "start": "2021-06-01T00:00:00.000+07:00",
