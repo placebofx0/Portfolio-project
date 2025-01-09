@@ -15,7 +15,7 @@
                 <div class="pt-2 flex flex-wrap gap-2 md:justify-center md:mt-2">
                     <BaseLink
                         size="small"
-                        to="mailto: patrizer3140@hotmail.com"
+                        to="mailto: wongwiengkan.k@gmail.com"
                         class="md:text-base md:px-7 md:py-3 md:space-x-2"
                     >
                         <span>Email</span>
