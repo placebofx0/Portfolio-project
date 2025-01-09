@@ -39,7 +39,8 @@ function isExperienceVisible(index) {
 
     <section class="mb-10">
         <SkillList 
-        :skills="['Word', 'Excel', 'Photoshop', 'Illustrator', 'Premiere pro', 'Html', 'CSS']"
+        :skills="['Html', 'CSS', 'Javascript', 'Vue.js', 'Nuxt.js', 'Tailwind CSS', 
+        'Express.js', 'Node.js', 'MongoDB', 'Github', 'Word', 'Excel', 'Photoshop', 'Illustrator', 'Premiere pro',]"
         :can-edit="true"/>
     </section>
 
